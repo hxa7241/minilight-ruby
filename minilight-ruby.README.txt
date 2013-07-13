@@ -1,0 +1,55 @@
+
+
+MiniLight 1.6 Ruby
+======================================================================
+
+
+Harrison Ainsworth / HXA7241 : 2006-2008, 2013.  
+http://www.hxa.name/minilight
+
+2013-05-04
+
+
+
+
+Contents
+--------
+
+* Description
+* Usage
+* Acknowledgements
+
+
+
+
+Description
+-----------
+
+MiniLight is a minimal global illumination renderer. See the main MiniLight
+readme for a general description.
+
+
+
+
+Usage
+-----
+
+Requirements:
+* Ruby 1.8.2 or similar
+
+Guide:
+1. extract/copy the files to somewhere
+
+Run:
+   ruby minilight.rb cornellbox.ml.txt
+
+
+
+
+Acknowledgements
+----------------
+
+### implementations ###
+
+* Ruby 1.8  
+  http://www.ruby-lang.org/
